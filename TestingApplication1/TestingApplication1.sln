@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DEMO01_T4", "DEMO01_T4\DEMO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "harjoitus5", "harjoitus5\harjoitus5.csproj", "{373B86AC-332D-4A63-AF9B-6C858135ADBE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "harjoitus 6", "harjoitus 6\harjoitus 6.csproj", "{FDA3095A-5C85-45A5-9DBF-E5AC8BB78C75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{373B86AC-332D-4A63-AF9B-6C858135ADBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{373B86AC-332D-4A63-AF9B-6C858135ADBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{373B86AC-332D-4A63-AF9B-6C858135ADBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDA3095A-5C85-45A5-9DBF-E5AC8BB78C75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDA3095A-5C85-45A5-9DBF-E5AC8BB78C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDA3095A-5C85-45A5-9DBF-E5AC8BB78C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDA3095A-5C85-45A5-9DBF-E5AC8BB78C75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
